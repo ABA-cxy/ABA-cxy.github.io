@@ -1,4 +1,4 @@
-# <p align="center">1 START</p>
+# 1 START
 
 ## Notes
 ### Science questions：
