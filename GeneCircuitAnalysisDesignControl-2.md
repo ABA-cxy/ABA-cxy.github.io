@@ -9,3 +9,11 @@
     - insulator —— enhancer —— cis-acting control elements _CpG Island —— TATAbox —— TSS
 - mRNA：
   - 5' —— UTR exon/intron —— 3'UTR
+- 组蛋白、甲基化……
+- 转录后调控：RNA可变剪切，RNA加工，mRNA localization， mRNA降解……
+  - microRNA的功能：
+    - 与mRNA完全或非完全互补配对，加速mRNA降解
+  - 环状RNA功能：
+    - miRNA海绵效应
+    - 与RNA结合蛋白作用
+    - 5'帽不依赖蛋白翻译
